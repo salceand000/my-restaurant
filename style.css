@@ -1,0 +1,118 @@
+body {
+  font-family: 'Roboto mono', sans-serif;
+  background-color: #0D1BD9;
+  color: white;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-image: url("./images/background.jpg");
+}
+
+.item-gallery {
+  display: flex;
+  justify-content: space-around;
+  margin: 20px;
+  width: 80%;
+}
+
+.card {
+  background-color: #408fff;
+  border-radius: 10px;
+  padding: 15px;
+  width: 25%;
+  text-align: center;
+  color: black;
+}
+
+.burger-image {
+  width: 100%;
+  border-radius: 10px;
+}
+
+.card h3 {
+  color: black;
+  font-size: 1.5em;
+}
+
+.card p {
+  font-size: 1em;
+  color: #333;
+}
+
+
+.logoo {
+  background-color: #002366;
+  color: white;
+  padding: 3px;
+  position: absolute;
+  top: 40px;
+  right: 40px;
+  border-radius: 15px;
+  text-align: center;
+}
+
+.logoo img.logo {
+  width: 120px;
+  margin-bottom: 20px;
+}
+
+nav ul {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 20px;
+}
+
+
+nav ul li a {
+  color: white;
+  font-size: 1.2em;
+  background-color: #408fff ;
+  font-size: 30px;
+}
+
+
+
+.hero{
+ background-color: #ebc034;
+ color: black;
+border-radius: 7px;
+}
+
+strong {
+color: #FFD700;
+font-size: 25px;
+
+}
+
+.slogan p{
+ background-color: tomato;
+ font-size: 20px;
+}
+.aboutus p{
+font-size:
+}
+.aboutus strong p{
+font-size: 20px;
+}
+.about h2{
+  font-size: 30px;
+}
+
+.menu h1{
+  text-align: center;
+  color: #000000;
+  background-color: white;
+  font-size: 50px;
+}
+
+.content{
+  background-color: #408fff;
+  border-radius: 15px;
+}
+
+.image{
+  width: 300px;
+}
